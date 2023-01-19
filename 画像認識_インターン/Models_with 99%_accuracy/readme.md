@@ -1,2 +1,3 @@
 工場部品に傷があるかどうかを判別するモデルを作成し、精度が99%以上になります。訓練データが必要であれば、私に連絡してください。
-![image](https://github.com/JIANGBAIGE1999/intership_project/blob/master/Models_with%2099%25_accuracy/test.png)
+
+![avatar](/%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98_%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/Models_with%2099%25_accuracy/test.png)

@@ -1,3 +1,4 @@
 # intership_project
 #このプロジェクトは道の傷を判別するために開発されます。精度が80%ぐらいです。訓練データが必要であれば、私に連絡してください。
-![image](https://github.com/JIANGBAIGE1999/intership_project/blob/master/test.png)
+
+![avatar](/%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98_%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/SSD%E3%83%A2%E3%83%87%E3%83%AB/test.png)
